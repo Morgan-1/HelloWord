@@ -17,7 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"first show ");
-    NSLog(@"second show");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
